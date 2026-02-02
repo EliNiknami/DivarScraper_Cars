@@ -25,11 +25,11 @@ The project is intended for learning, experimentation, and research-oriented use
 
 ---
 ##How to Run
-scrapy crawl divar_search
-
+-scrapy crawl divar_search
+---
 ##Saving Output
-scrapy crawl divar_search -O cars.json
-scrapy crawl divar_search -O cars.csv
+-scrapy crawl divar_search -O cars.json
+-scrapy crawl divar_search -O cars.csv
 
 
 
