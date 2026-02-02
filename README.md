@@ -25,6 +25,5 @@ The project is intended for learning, experimentation, and research-oriented use
 
 ---
 
-## Project Structure
 
 
